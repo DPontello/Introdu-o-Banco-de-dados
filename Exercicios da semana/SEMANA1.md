@@ -1,4 +1,4 @@
-Defina: banco de dados, sistema de banco de dados e sistema de gerência de banco de
+ Defina: banco de dados, sistema de banco de dados e sistema de gerência de banco de
 dados.
 2. (a) Cite algumas das informações armazenadas no catálogo do sistema, chamadas de
 metadados.
@@ -47,3 +47,6 @@ isolamento entre programas e dados: No processamento de arquivos tradicional, a 
 
 
 4- Por exemplo, uma secretaria que agenda consultas para pacientes precisa de saber de informações de contato, como, onde mora, numero de contato entre outros já o próprio medico não precisa dessas informações.
+
+
+5- 
